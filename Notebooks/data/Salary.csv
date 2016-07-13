@@ -1,0 +1,1081 @@
+"Org","OrgName","Cla","Pos","ClaPos","Salary"
+"PL","Philosophy","PC","FT2","PC.FT2",72395
+"MUTH","Music Theory","PC","FT2","PC.FT2",61017
+"ENG","English","PC","FT2","PC.FT2",82370
+"CMLT","Comparative Literature","PC","FT2","PC.FT2",68805
+"LGED","Language Education","PT","FT3","PT.FT3",63796
+"MGMT","Dept Mangement & Entrep","PR","NDW","PR.NDW",219600
+"INFO","Informatics","PT","FT3","PT.FT3",98814
+"CRIN","Curriculum & Instruction","PR","FT1","PR.FT1",107745
+"CRIN","Curriculum & Instruction","PR","NDW","PR.NDW",114275
+"PSY","Psychological & Brain Sciences","PR","FT1","PR.FT1",173302
+"SOC","Sociology","PR","FT1","PR.FT1",117240
+"ECON","Economics","PR","FT1","PR.FT1",152437
+"HIST","History","PR","FT1","PR.FT1",131615
+"ANTH","Anthropology","PC","FT2","PC.FT2",68575
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",243800
+"STAT","Statistics","PT","FT3","PT.FT3",79689
+"CMCL","Communication & Culture","PC","FT2","PC.FT2",65864
+"ENG","English","PC","FT2","PC.FT2",78978
+"CRIN","Curriculum & Instruction","PR","FT1","PR.FT1",82626
+"SPHS","Speech & Hearing Sciences","PC","FT2","PC.FT2",95708
+"ENG","English","PC","FT2","PC.FT2",67495
+"SPHS","Speech & Hearing Sciences","PR","FT1","PR.FT1",111244
+"FRIT","French and Italian","PC","FT2","PC.FT2",59678
+"MUST","Music School-String Technology","PR","FT1","PR.FT1",165335
+"ACTG","School of Business Accounting Department","PT","FT3","PT.FT3",181200
+"CHEM","Chemistry","PT","FT3","PT.FT3",80093
+"MUVO","Music-Voice Department","PC","FT2","PC.FT2",78435
+"SPEA","Public & Environmental Affairs","PT","FT3","PT.FT3",96447
+"CEUS","Central Eurasian Studies","PC","FT2","PC.FT2",98059
+"SPEA","Public & Environmental Affairs","PR","DST","PR.DST",285000
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",100044
+"OADT","Business Operations & Decision Technolog","PC","FT2","PC.FT2",167400
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",120616
+"SPEA","Public & Environmental Affairs","PT","FT3","PT.FT3",100775
+"ANTH","Anthropology","PR","FT1","PR.FT1",89199
+"CHEM","Chemistry","PC","FT2","PC.FT2",133167
+"MATH","Mathematics","PT","FT3","PT.FT3",82199
+"CHEM","Chemistry","PC","FT2","PC.FT2",102028
+"OADT","Business Operations & Decision Technolog","PT","FT3","PT.FT3",147000
+"INFO","Informatics","PC","FT2","PC.FT2",99733
+"INFO","Informatics","PC","FT2","PC.FT2",97006
+"APHS","Applied Health Science","PT","FT3","PT.FT3",72917
+"ENG","English","PT","FT3","PT.FT3",64000
+"PL","Philosophy","PR","NDW","PR.NDW",119441
+"GEOL","Geological Sciences","PR","FT1","PR.FT1",140852
+"CRIN","Curriculum & Instruction","PR","FT1","PR.FT1",102505
+"FINH","Fine Arts - History","PC","FT2","PC.FT2",80504
+"GEOL","Geological Sciences","PR","NDW","PR.NDW",95081
+"PSY","Psychological & Brain Sciences","PR","FT1","PR.FT1",135559
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",101090
+"PHYS","Physics","PR","FT1","PR.FT1",95893
+"BEPP","School of Business Economics & Public","PR","NDW","PR.NDW",250100
+"LING","Linguistics","PT","FT3","PT.FT3",70213
+"ECON","Economics","PR","FT1","PR.FT1",220668
+"APHS","Applied Health Science","PT","FT3","PT.FT3",72930
+"CEUS","Central Eurasian Studies","PR","FT1","PR.FT1",116142
+"PHYS","Physics","PC","FT2","PC.FT2",97000
+"OPT","Optometry","PR","FT1","PR.FT1",95141
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",164300
+"CEDP","Counseling & Educational Psy","PC","FT2","PC.FT2",71310
+"BFIN","School of Business Finance Department","PT","FT3","PT.FT3",197700
+"SOC","Sociology","PT","FT3","PT.FT3",75000
+"BI","Biology","PC","FT2","PC.FT2",65116
+"ACTG","School of Business Accounting Department","PR","NDW","PR.NDW",230300
+"SPHS","Speech & Hearing Sciences","PT","FT3","PT.FT3",76889
+"MATH","Mathematics","PR","FT1","PR.FT1",121951
+"PHYS","Physics","PR","FT1","PR.FT1",84229
+"PSY","Psychological & Brain Sciences","PR","NDW","PR.NDW",209404
+"ECON","Economics","PT","FT3","PT.FT3",120000
+"BI","Biology","PR","FT1","PR.FT1",119500
+"BFIN","School of Business Finance Department","PC","FT2","PC.FT2",212800
+"POLS","Political Science","PR","FT1","PR.FT1",167570
+"SPAN","Spanish & Portuguese","PR","FT1","PR.FT1",100345
+"POLS","Political Science","PR","FT1","PR.FT1",115500
+"BFIN","School of Business Finance Department","PR","NDW","PR.NDW",252600
+"APHS","Applied Health Science","PC","FT2","PC.FT2",89621
+"REL","Religious Studies","PT","FT3","PT.FT3",64000
+"PSY","Psychological & Brain Sciences","PR","FT1","PR.FT1",110804
+"SPEA","Public & Environmental Affairs","PR","NDW","PR.NDW",155059
+"SPAN","Spanish & Portuguese","PT","FT3","PT.FT3",68135
+"GEOL","Geological Sciences","PR","FT1","PR.FT1",170509
+"FRIT","French and Italian","PT","FT3","PT.FT3",74000
+"APHS","Applied Health Science","PC","FT2","PC.FT2",90016
+"REL","Religious Studies","PT","FT3","PT.FT3",62213
+"KINE","Kinesiology","PT","FT3","PT.FT3",71500
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",92727
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",76637
+"FINS","Fine Arts Studio","PC","FT2","PC.FT2",63888
+"INFO","Informatics","PC","FT2","PC.FT2",116665
+"BI","Biology","PR","FT1","PR.FT1",93127
+"SLIS","Library & Information Science","PR","NDW","PR.NDW",147116
+"ENG","English","PC","FT2","PC.FT2",78716
+"BLAN","Dept of Business Law & Ethics","PC","FT2","PC.FT2",112600
+"FRIT","French and Italian","PC","FT2","PC.FT2",73629
+"ENG","English","PR","NDW","PR.NDW",96559
+"MATH","Mathematics","PR","FT1","PR.FT1",94518
+"OPT","Optometry","PR","FT1","PR.FT1",94862
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",220450
+"PSY","Psychological & Brain Sciences","PC","FT2","PC.FT2",77612
+"POLS","Political Science","PC","FT2","PC.FT2",85000
+"CSCI","Computer Science","PR","FT1","PR.FT1",116598
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",111210
+"CRIN","Curriculum & Instruction","PC","FT2","PC.FT2",72420
+"MUST","Music School-String Technology","PR","FT1","PR.FT1",117002
+"SPEA","Public & Environmental Affairs","PT","FT3","PT.FT3",98161
+"GEOL","Geological Sciences","PR","FT1","PR.FT1",135383
+"GERM","Germanic Studies","PR","FT1","PR.FT1",92232
+"GERM","Germanic Studies","PR","FT1","PR.FT1",113147
+"BI","Biology","PR","FT1","PR.FT1",157745
+"OADT","Business Operations & Decision Technolog","PR","FT1","PR.FT1",174100
+"ANTH","Anthropology","PR","FT1","PR.FT1",118958
+"SOC","Sociology","PR","NDW","PR.NDW",146138
+"LAWS","Maurer School of Law","PC","FT2","PC.FT2",149500
+"REL","Religious Studies","PC","FT2","PC.FT2",75013
+"CSCI","Computer Science","PR","FT1","PR.FT1",134211
+"ENG","English","PC","FT2","PC.FT2",74206
+"ACTG","School of Business Accounting Department","PT","FT3","PT.FT3",185300
+"PSY","Psychological & Brain Sciences","PC","FT2","PC.FT2",83500
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",163100
+"CHEM","Chemistry","PT","FT3","PT.FT3",79817
+"BI","Biology","PR","NDW","PR.NDW",135236
+"THTR","Theatre & Drama","PT","FT3","PT.FT3",59994
+"CRIN","Curriculum & Instruction","PC","FT2","PC.FT2",83749
+"ECON","Economics","PR","FT1","PR.FT1",133541
+"ANTH","Anthropology","PC","FT2","PC.FT2",73222
+"ELPS","Leadership & Policy Studies","PR","FT1","PR.FT1",115465
+"THTR","Theatre & Drama","PC","FT2","PC.FT2",65946
+"MKTG","School of Business Marketing Department","PR","NDW","PR.NDW",212500
+"MUHI","Music School-Musicology","PR","DST","PR.DST",114189
+"FOLK","Dept Folklore/Ethnomusicology","PR","FT1","PR.FT1",88003
+"PSY","Psychological & Brain Sciences","PR","FT1","PR.FT1",144743
+"CRIN","Curriculum & Instruction","PC","FT2","PC.FT2",78295
+"CRIN","Curriculum & Instruction","PR","FT1","PR.FT1",96075
+"AMST","American Studies","PT","FT3","PT.FT3",65500
+"SOC","Sociology","PT","FT3","PT.FT3",75295
+"FRIT","French and Italian","PT","FT3","PT.FT3",71057
+"CMCL","Communication & Culture","PR","FT1","PR.FT1",87693
+"BI","Biology","PC","FT2","PC.FT2",101059
+"INFO","Informatics","PR","FT1","PR.FT1",145265
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",108622
+"OPT","Optometry","PC","FT2","PC.FT2",83342
+"SPEA","Public & Environmental Affairs","PT","FT3","PT.FT3",106518
+"CHEM","Chemistry","PT","FT3","PT.FT3",90000
+"CEDP","Counseling & Educational Psy","PR","FT1","PR.FT1",100141
+"MUIN","Instrument Applied Music","PT","FT3","PT.FT3",57589
+"TELC","Telecommunications","PR","FT1","PR.FT1",123128
+"SPEA","Public & Environmental Affairs","PC","FT2","PC.FT2",100475
+"LAWS","Maurer School of Law","PR","DST","PR.DST",193650
+"OADT","Business Operations & Decision Technolog","PC","FT2","PC.FT2",161900
+"CHEM","Chemistry","PR","DST","PR.DST",154487
+"SOC","Sociology","PT","FT3","PT.FT3",76000
+"MKTG","School of Business Marketing Department","PT","FT3","PT.FT3",151600
+"ECON","Economics","PR","FT1","PR.FT1",213467
+"KINE","Kinesiology","PT","FT3","PT.FT3",82072
+"ENG","English","PR","FT1","PR.FT1",105038
+"CSCI","Computer Science","PT","FT3","PT.FT3",92378
+"MKTG","School of Business Marketing Department","PC","FT2","PC.FT2",182800
+"RPAD","Recreation,Park&Tourism Studie","PC","FT2","PC.FT2",97016
+"EALC","East Asian Langs & Cultures","PR","FT1","PR.FT1",92000
+"TELC","Telecommunications","PR","FT1","PR.FT1",135366
+"CEDP","Counseling & Educational Psy","PR","FT1","PR.FT1",123930
+"MATH","Mathematics","PR","FT1","PR.FT1",118321
+"ANTH","Anthropology","PR","FT1","PR.FT1",82035
+"KINE","Kinesiology","PT","FT3","PT.FT3",68614
+"BI","Biology","PR","DST","PR.DST",160983
+"HIST","History","PR","FT1","PR.FT1",135659
+"SPAN","Spanish & Portuguese","PR","FT1","PR.FT1",102297
+"PHYS","Physics","PT","FT3","PT.FT3",76922
+"MUIN","Instrument Applied Music","PR","NDW","PR.NDW",138002
+"LAWS","Maurer School of Law","PR","FT1","PR.FT1",176868
+"RPAD","Recreation,Park&Tourism Studie","PC","FT2","PC.FT2",91983
+"MUST","Music School-String Technology","PC","FT2","PC.FT2",72016
+"ENG","English","PR","FT1","PR.FT1",94353
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",219450
+"MATH","Mathematics","PC","FT2","PC.FT2",85282
+"SPHS","Speech & Hearing Sciences","PR","FT1","PR.FT1",143190
+"LAWS","Maurer School of Law","PR","FT1","PR.FT1",116450
+"JOUR","Journalism","PC","FT2","PC.FT2",81056
+"THTR","Theatre & Drama","PC","FT2","PC.FT2",67386
+"ANTH","Anthropology","PR","FT1","PR.FT1",91291
+"CHEM","Chemistry","PT","FT3","PT.FT3",80464
+"JOUR","Journalism","PR","FT1","PR.FT1",93530
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",109161
+"SOC","Sociology","PC","FT2","PC.FT2",66690
+"LGED","Language Education","PC","FT2","PC.FT2",70245
+"KINE","Kinesiology","PR","FT1","PR.FT1",113500
+"SPEA","Public & Environmental Affairs","PR","NDW","PR.NDW",116940
+"POLS","Political Science","PR","FT1","PR.FT1",121241
+"INFO","Informatics","PT","FT3","PT.FT3",96115
+"ACTG","School of Business Accounting Department","PT","FT3","PT.FT3",182200
+"SLIS","Library & Information Science","PR","NDW","PR.NDW",181938
+"CRIN","Curriculum & Instruction","PC","FT2","PC.FT2",74059
+"PSY","Psychological & Brain Sciences","PR","FT1","PR.FT1",99464
+"HIST","History","PR","FT1","PR.FT1",96609
+"CEDP","Counseling & Educational Psy","PR","FT1","PR.FT1",117521
+"PSY","Psychological & Brain Sciences","PC","FT2","PC.FT2",105000
+"MATH","Mathematics","PR","FT1","PR.FT1",77354
+"CSCI","Computer Science","PC","FT2","PC.FT2",109149
+"LGED","Language Education","PC","FT2","PC.FT2",74386
+"MATH","Mathematics","PT","FT3","PT.FT3",82000
+"CEDP","Counseling & Educational Psy","PT","FT3","PT.FT3",64392
+"CHEM","Chemistry","PT","FT3","PT.FT3",81523
+"ELPS","Leadership & Policy Studies","PC","FT2","PC.FT2",71461
+"BI","Biology","PT","FT3","PT.FT3",77500
+"SLS","Second Language Studies","PC","FT2","PC.FT2",66867
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",236450
+"MATH","Mathematics","PR","FT1","PR.FT1",116897
+"LING","Linguistics","PR","FT1","PR.FT1",116553
+"SLIS","Library & Information Science","PC","FT2","PC.FT2",90998
+"LING","Linguistics","PR","FT1","PR.FT1",91238
+"BEPP","School of Business Economics & Public","PT","FT3","PT.FT3",128400
+"PHYS","Physics","PR","FT1","PR.FT1",186971
+"CHEM","Chemistry","PR","FT1","PR.FT1",128953
+"FINS","Fine Arts Studio","PC","FT2","PC.FT2",87066
+"CMCL","Communication & Culture","PT","FT3","PT.FT3",60000
+"ELPS","Leadership & Policy Studies","PT","FT3","PT.FT3",68340
+"SLS","Second Language Studies","PR","FT1","PR.FT1",88248
+"AST","Astronomy","PC","FT2","PC.FT2",79081
+"HIST","History","PC","FT2","PC.FT2",73000
+"BI","Biology","PR","FT1","PR.FT1",131014
+"BI","Biology","PR","FT1","PR.FT1",106000
+"MATH","Mathematics","PC","FT2","PC.FT2",93118
+"OADT","Business Operations & Decision Technolog","PR","NDW","PR.NDW",243100
+"CEDP","Counseling & Educational Psy","PC","FT2","PC.FT2",73548
+"PHYS","Physics","PT","FT3","PT.FT3",81777
+"TELC","Telecommunications","PR","DST","PR.DST",172930
+"SPEA","Public & Environmental Affairs","PT","FT3","PT.FT3",100319
+"POLS","Political Science","PT","FT3","PT.FT3",80000
+"FINH","Fine Arts - History","PT","FT3","PT.FT3",61990
+"CEUS","Central Eurasian Studies","PR","FT1","PR.FT1",95490
+"HIST","History","PC","FT2","PC.FT2",86323
+"SPAN","Spanish & Portuguese","PC","FT2","PC.FT2",79272
+"LING","Linguistics","PC","FT2","PC.FT2",78243
+"HIST","History","PC","FT2","PC.FT2",67810
+"CHEM","Chemistry","PR","DST","PR.DST",248045
+"SLIS","Library & Information Science","PC","FT2","PC.FT2",102904
+"SPAN","Spanish & Portuguese","PC","FT2","PC.FT2",69211
+"APHS","Applied Health Science","PC","FT2","PC.FT2",83640
+"ECON","Economics","PT","FT3","PT.FT3",115341
+"SPAN","Spanish & Portuguese","PC","FT2","PC.FT2",75314
+"CHEM","Chemistry","PR","FT1","PR.FT1",145723
+"THTR","Theatre & Drama","PC","FT2","PC.FT2",67858
+"MKTG","School of Business Marketing Department","PC","FT2","PC.FT2",182500
+"SPEA","Public & Environmental Affairs","PT","FT3","PT.FT3",95492
+"CEDP","Counseling & Educational Psy","PT","FT3","PT.FT3",61200
+"GEOL","Geological Sciences","PR","FT1","PR.FT1",130832
+"MUIN","Instrument Applied Music","PR","NDW","PR.NDW",104091
+"PL","Philosophy","PR","NDW","PR.NDW",126659
+"ELPS","Leadership & Policy Studies","PC","FT2","PC.FT2",104599
+"SOC","Sociology","PR","FT1","PR.FT1",101786
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",82354
+"GEOL","Geological Sciences","PT","FT3","PT.FT3",73128
+"SLIS","Library & Information Science","PC","FT2","PC.FT2",95331
+"HIST","History","PR","FT1","PR.FT1",96164
+"FOLK","Dept Folklore/Ethnomusicology","PR","FT1","PR.FT1",74818
+"CMCL","Communication & Culture","PT","FT3","PT.FT3",57120
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",114240
+"APHS","Applied Health Science","PC","FT2","PC.FT2",94551
+"BFIN","School of Business Finance Department","PC","FT2","PC.FT2",239000
+"ENG","English","PR","FT1","PR.FT1",122885
+"CRIN","Curriculum & Instruction","PT","FT3","PT.FT3",63750
+"INFO","Informatics","PC","FT2","PC.FT2",86747
+"CSCI","Computer Science","PC","FT2","PC.FT2",114000
+"ECON","Economics","PC","FT2","PC.FT2",172500
+"CEDP","Counseling & Educational Psy","PC","FT2","PC.FT2",72972
+"PHYS","Physics","PR","FT1","PR.FT1",109952
+"ACTG","School of Business Accounting Department","PT","FT3","PT.FT3",184100
+"GEOG","Geography","PR","FT1","PR.FT1",104246
+"FINH","Fine Arts - History","PR","FT1","PR.FT1",84126
+"POLS","Political Science","PC","FT2","PC.FT2",75141
+"JOUR","Journalism","PC","FT2","PC.FT2",81984
+"PSY","Psychological & Brain Sciences","PR","FT1","PR.FT1",80539
+"RPAD","Recreation,Park&Tourism Studie","PT","FT3","PT.FT3",68196
+"ENG","English","PR","FT1","PR.FT1",104916
+"ENG","English","PR","FT1","PR.FT1",117203
+"SPAN","Spanish & Portuguese","PC","FT2","PC.FT2",69185
+"THTR","Theatre & Drama","PC","FT2","PC.FT2",63954
+"SPEA","Public & Environmental Affairs","PC","FT2","PC.FT2",103674
+"PHYS","Physics","PR","FT1","PR.FT1",137860
+"SLIS","Library & Information Science","PC","FT2","PC.FT2",103725
+"GEOG","Geography","PT","FT3","PT.FT3",68000
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",189400
+"HIST","History","PC","FT2","PC.FT2",65760
+"KINE","Kinesiology","PR","FT1","PR.FT1",120095
+"PSY","Psychological & Brain Sciences","PR","FT1","PR.FT1",147655
+"LAWS","Maurer School of Law","PR","FT1","PR.FT1",169400
+"MATH","Mathematics","PR","FT1","PR.FT1",144970
+"MGMT","Dept Mangement & Entrep","PT","FT3","PT.FT3",129500
+"ACTG","School of Business Accounting Department","PR","FT1","PR.FT1",214700
+"INFO","Informatics","PC","FT2","PC.FT2",105495
+"MUST","Music School-String Technology","PR","NDW","PR.NDW",168518
+"ENG","English","PC","FT2","PC.FT2",110136
+"CRIN","Curriculum & Instruction","PR","FT1","PR.FT1",93587
+"CHEM","Chemistry","PC","FT2","PC.FT2",107000
+"APHS","Applied Health Science","PC","FT2","PC.FT2",92531
+"MUHI","Music School-Musicology","PC","FT2","PC.FT2",62017
+"SPHS","Speech & Hearing Sciences","PR","FT1","PR.FT1",116486
+"GEOL","Geological Sciences","PT","FT3","PT.FT3",71000
+"SPHS","Speech & Hearing Sciences","PT","FT3","PT.FT3",77103
+"FOLK","Dept Folklore/Ethnomusicology","PC","FT2","PC.FT2",71319
+"CSCI","Computer Science","PT","FT3","PT.FT3",96228
+"LING","Linguistics","PR","FT1","PR.FT1",158642
+"AMST","American Studies","PC","FT2","PC.FT2",76629
+"SPEA","Public & Environmental Affairs","PT","FT3","PT.FT3",100565
+"KINE","Kinesiology","PC","FT2","PC.FT2",86708
+"SLS","Second Language Studies","PT","FT3","PT.FT3",60000
+"CSCI","Computer Science","PR","FT1","PR.FT1",156446
+"ANTH","Anthropology","PC","FT2","PC.FT2",77554
+"AST","Astronomy","PR","FT1","PR.FT1",143635
+"INFO","Informatics","PR","FT1","PR.FT1",160000
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",150700
+"MUST","Music School-String Technology","PR","NDW","PR.NDW",143016
+"BI","Biology","PR","FT1","PR.FT1",123106
+"REL","Religious Studies","PC","FT2","PC.FT2",80000
+"GERM","Germanic Studies","PR","FT1","PR.FT1",113623
+"CRIN","Curriculum & Instruction","PC","FT2","PC.FT2",75173
+"POLS","Political Science","PR","NDW","PR.NDW",188280
+"ENG","English","PC","FT2","PC.FT2",73666
+"SPEA","Public & Environmental Affairs","PC","FT2","PC.FT2",104228
+"MUST","Music School-String Technology","PR","FT1","PR.FT1",106311
+"SPAN","Spanish & Portuguese","PR","FT1","PR.FT1",91347
+"THTR","Theatre & Drama","PT","FT3","PT.FT3",61090
+"MATH","Mathematics","PR","FT1","PR.FT1",88094
+"SPHS","Speech & Hearing Sciences","PC","FT2","PC.FT2",94656
+"CMCL","Communication & Culture","PC","FT2","PC.FT2",69758
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",208400
+"ENG","English","PT","FT3","PT.FT3",62242
+"SPHS","Speech & Hearing Sciences","PR","FT1","PR.FT1",128705
+"SPAN","Spanish & Portuguese","PC","FT2","PC.FT2",86414
+"ANTH","Anthropology","PC","FT2","PC.FT2",82702
+"LAWS","Maurer School of Law","PR","FT1","PR.FT1",151200
+"PHYS","Physics","PR","FT1","PR.FT1",172237
+"ECON","Economics","PR","FT1","PR.FT1",190014
+"PSY","Psychological & Brain Sciences","PC","FT2","PC.FT2",73856
+"MUHI","Music School-Musicology","PC","FT2","PC.FT2",72008
+"BFIN","School of Business Finance Department","PC","FT2","PC.FT2",226100
+"TELC","Telecommunications","PT","FT3","PT.FT3",71408
+"THTR","Theatre & Drama","PT","FT3","PT.FT3",58876
+"CMCL","Communication & Culture","PC","FT2","PC.FT2",87158
+"APHS","Applied Health Science","PR","FT1","PR.FT1",179673
+"BI","Biology","PR","FT1","PR.FT1",104123
+"ECON","Economics","PT","FT3","PT.FT3",113285
+"OPT","Optometry","PR","FT1","PR.FT1",97663
+"PHYS","Physics","PR","DST","PR.DST",134500
+"HIST","History","PR","NDW","PR.NDW",146639
+"TELC","Telecommunications","PR","FT1","PR.FT1",114238
+"FINH","Fine Arts - History","PT","FT3","PT.FT3",60057
+"FRIT","French and Italian","PC","FT2","PC.FT2",62907
+"CMCL","Communication & Culture","PC","FT2","PC.FT2",84000
+"ENG","English","PC","FT2","PC.FT2",68450
+"AFRO","Afro-American Studies","PR","FT1","PR.FT1",117669
+"SPEA","Public & Environmental Affairs","PR","FT1","PR.FT1",162070
+"ELPS","Leadership & Policy Studies","PC","FT2","PC.FT2",108707
+"ECON","Economics","PT","FT3","PT.FT3",104870
+"CSCI","Computer Science","PC","FT2","PC.FT2",113798
+"BFIN","School of Business Finance Department","PC","FT2","PC.FT2",222800
+"REL","Religious Studies","PR","FT1","PR.FT1",126300
+"CRIN","Curriculum & Instruction","PT","FT3","PT.FT3",69246
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",95064
+"BI","Biology","PC","FT2","PC.FT2",104000
+"MATH","Mathematics","PR","FT1","PR.FT1",92899
+"INFO","Informatics","PR","FT1","PR.FT1",103153
+"LGED","Language Education","PT","FT3","PT.FT3",63707
+"BI","Biology","PC","FT2","PC.FT2",88000
+"GERM","Germanic Studies","PR","FT1","PR.FT1",83745
+"SOC","Sociology","PC","FT2","PC.FT2",83273
+"GEOL","Geological Sciences","PR","FT1","PR.FT1",94888
+"HIST","History","PC","FT2","PC.FT2",99850
+"POLS","Political Science","PR","FT1","PR.FT1",182914
+"SLIS","Library & Information Science","PC","FT2","PC.FT2",101618
+"BEPP","School of Business Economics & Public","PC","FT2","PC.FT2",152100
+"BI","Biology","PC","FT2","PC.FT2",90118
+"REL","Religious Studies","PR","FT1","PR.FT1",85241
+"MUVO","Music-Voice Department","PR","FT1","PR.FT1",101959
+"PL","Philosophy","PT","FT3","PT.FT3",72358
+"OPT","Optometry","PT","FT3","PT.FT3",77178
+"ECON","Economics","PT","FT3","PT.FT3",120928
+"RPAD","Recreation,Park&Tourism Studie","PR","FT1","PR.FT1",123140
+"CMCL","Communication & Culture","PC","FT2","PC.FT2",76955
+"CEDP","Counseling & Educational Psy","PC","FT2","PC.FT2",83762
+"POLS","Political Science","PT","FT3","PT.FT3",81000
+"BLAN","Dept of Business Law & Ethics","PR","FT1","PR.FT1",141800
+"ENG","English","PR","FT1","PR.FT1",102221
+"SPEA","Public & Environmental Affairs","PC","FT2","PC.FT2",139528
+"POLS","Political Science","PC","FT2","PC.FT2",99821
+"OADT","Business Operations & Decision Technolog","PT","FT3","PT.FT3",152600
+"LAWS","Maurer School of Law","PR","FT1","PR.FT1",173550
+"APHS","Applied Health Science","PR","FT1","PR.FT1",120000
+"SPEA","Public & Environmental Affairs","PC","FT2","PC.FT2",89818
+"MKTG","School of Business Marketing Department","PT","FT3","PT.FT3",150600
+"SLIS","Library & Information Science","PR","FT1","PR.FT1",120186
+"ENG","English","PC","FT2","PC.FT2",78186
+"POLS","Political Science","PR","FT1","PR.FT1",114667
+"ACTG","School of Business Accounting Department","PT","FT3","PT.FT3",180100
+"CEDP","Counseling & Educational Psy","PC","FT2","PC.FT2",83019
+"CHEM","Chemistry","PR","DST","PR.DST",249442
+"CSCI","Computer Science","PC","FT2","PC.FT2",101226
+"PSY","Psychological & Brain Sciences","PR","FT1","PR.FT1",83024
+"ACTG","School of Business Accounting Department","PR","FT1","PR.FT1",175100
+"SPEA","Public & Environmental Affairs","PR","DST","PR.DST",229911
+"ACTG","School of Business Accounting Department","PC","FT2","PC.FT2",200700
+"ENG","English","PT","FT3","PT.FT3",64000
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",242450
+"PSY","Psychological & Brain Sciences","PR","NDW","PR.NDW",147893
+"BFIN","School of Business Finance Department","PR","FT1","PR.FT1",181700
+"PSY","Psychological & Brain Sciences","PR","FT1","PR.FT1",121111
+"MUTH","Music Theory","PC","FT2","PC.FT2",65031
+"ACTG","School of Business Accounting Department","PR","NDW","PR.NDW",212600
+"THTR","Theatre & Drama","PC","FT2","PC.FT2",60943
+"MUTH","Music Theory","PR","FT1","PR.FT1",82659
+"MUVO","Music-Voice Department","PC","FT2","PC.FT2",72119
+"OPT","Optometry","PC","FT2","PC.FT2",78138
+"PHYS","Physics","PR","FT1","PR.FT1",119789
+"ELPS","Leadership & Policy Studies","PR","FT1","PR.FT1",189706
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",100059
+"MATH","Mathematics","PR","FT1","PR.FT1",103652
+"BI","Biology","PT","FT3","PT.FT3",77037
+"OADT","Business Operations & Decision Technolog","PT","FT3","PT.FT3",132600
+"STAT","Statistics","PC","FT2","PC.FT2",87040
+"CEDP","Counseling & Educational Psy","PR","FT1","PR.FT1",88626
+"SPHS","Speech & Hearing Sciences","PR","DST","PR.DST",261959
+"ANTH","Anthropology","PT","FT3","PT.FT3",72628
+"BI","Biology","PC","FT2","PC.FT2",83441
+"JOUR","Journalism","PT","FT3","PT.FT3",67918
+"SPAN","Spanish & Portuguese","PT","FT3","PT.FT3",62185
+"REL","Religious Studies","PT","FT3","PT.FT3",62200
+"ENG","English","PC","FT2","PC.FT2",89664
+"BI","Biology","PR","FT1","PR.FT1",155603
+"AMST","American Studies","PT","FT3","PT.FT3",63600
+"ENG","English","PR","FT1","PR.FT1",123231
+"POLS","Political Science","PR","NDW","PR.NDW",186295
+"BFIN","School of Business Finance Department","PT","FT3","PT.FT3",187300
+"MUTH","Music Theory","PC","FT2","PC.FT2",60026
+"CHEM","Chemistry","PC","FT2","PC.FT2",88601
+"FOLK","Dept Folklore/Ethnomusicology","PC","FT2","PC.FT2",96186
+"SOC","Sociology","PR","FT1","PR.FT1",127805
+"OADT","Business Operations & Decision Technolog","PR","FT1","PR.FT1",157900
+"CHEM","Chemistry","PR","FT1","PR.FT1",175000
+"FINS","Fine Arts Studio","PC","FT2","PC.FT2",64322
+"HIST","History","PR","NDW","PR.NDW",147213
+"PSY","Psychological & Brain Sciences","PC","FT2","PC.FT2",78649
+"PSY","Psychological & Brain Sciences","PC","FT2","PC.FT2",80149
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",195850
+"CHEM","Chemistry","PR","FT1","PR.FT1",134665
+"CHEM","Chemistry","PR","NDW","PR.NDW",206395
+"BFIN","School of Business Finance Department","PR","NDW","PR.NDW",257200
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",166600
+"GEOL","Geological Sciences","PC","FT2","PC.FT2",76117
+"SPEA","Public & Environmental Affairs","PC","FT2","PC.FT2",109833
+"GEOL","Geological Sciences","PC","FT2","PC.FT2",77259
+"JOUR","Journalism","PC","FT2","PC.FT2",78794
+"CMLT","Comparative Literature","PR","FT1","PR.FT1",94392
+"MUTH","Music Theory","PT","FT3","PT.FT3",56110
+"MATH","Mathematics","PR","FT1","PR.FT1",99619
+"PSY","Psychological & Brain Sciences","PR","FT1","PR.FT1",84818
+"MATH","Mathematics","PR","FT1","PR.FT1",97514
+"CMLT","Comparative Literature","PR","FT1","PR.FT1",123929
+"SPEA","Public & Environmental Affairs","PT","FT3","PT.FT3",88010
+"ANTH","Anthropology","PC","FT2","PC.FT2",76808
+"STAT","Statistics","PR","NDW","PR.NDW",174428
+"MUST","Music School-String Technology","PR","FT1","PR.FT1",110225
+"CSCI","Computer Science","PT","FT3","PT.FT3",98210
+"PL","Philosophy","PR","FT1","PR.FT1",130714
+"MUST","Music School-String Technology","PR","FT1","PR.FT1",126275
+"CEUS","Central Eurasian Studies","PR","FT1","PR.FT1",79045
+"EALC","East Asian Langs & Cultures","PR","FT1","PR.FT1",102090
+"ENG","English","PC","FT2","PC.FT2",80398
+"BI","Biology","PR","DST","PR.DST",212385
+"BI","Biology","PC","FT2","PC.FT2",90000
+"BI","Biology","PR","FT1","PR.FT1",103375
+"GERM","Germanic Studies","PR","FT1","PR.FT1",102839
+"JOUR","Journalism","PC","FT2","PC.FT2",89142
+"PSY","Psychological & Brain Sciences","PT","FT3","PT.FT3",87514
+"MUST","Music School-String Technology","PR","NDW","PR.NDW",140060
+"BI","Biology","PR","DST","PR.DST",157908
+"MUTH","Music Theory","PR","FT1","PR.FT1",95637
+"ENG","English","PC","FT2","PC.FT2",69668
+"MUST","Music School-String Technology","PR","FT1","PR.FT1",142025
+"ANTH","Anthropology","PC","FT2","PC.FT2",74435
+"MATH","Mathematics","PR","FT1","PR.FT1",103878
+"LING","Linguistics","PR","FT1","PR.FT1",86831
+"CMCL","Communication & Culture","PR","FT1","PR.FT1",129045
+"CRIN","Curriculum & Instruction","PR","NDW","PR.NDW",121657
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",102204
+"RPAD","Recreation,Park&Tourism Studie","PC","FT2","PC.FT2",98107
+"HIST","History","PC","FT2","PC.FT2",84860
+"FINH","Fine Arts - History","PC","FT2","PC.FT2",72627
+"GEOG","Geography","PR","FT1","PR.FT1",131130
+"MATH","Mathematics","PR","FT1","PR.FT1",71507
+"OPT","Optometry","PT","FT3","PT.FT3",76139
+"PHYS","Physics","PR","DST","PR.DST",155723
+"SPEA","Public & Environmental Affairs","PR","FT1","PR.FT1",133320
+"ENG","English","PC","FT2","PC.FT2",80868
+"PSY","Psychological & Brain Sciences","PT","FT3","PT.FT3",79500
+"ENG","English","PC","FT2","PC.FT2",87632
+"LAWS","Maurer School of Law","PR","FT1","PR.FT1",179750
+"PSY","Psychological & Brain Sciences","PR","FT1","PR.FT1",112903
+"SPEA","Public & Environmental Affairs","PC","FT2","PC.FT2",96149
+"MUVO","Music-Voice Department","PR","FT1","PR.FT1",93346
+"LING","Linguistics","PC","FT2","PC.FT2",82889
+"BI","Biology","PC","FT2","PC.FT2",85673
+"EALC","East Asian Langs & Cultures","PT","FT3","PT.FT3",59281
+"HIST","History","PR","FT1","PR.FT1",90673
+"BI","Biology","PT","FT3","PT.FT3",76630
+"PSY","Psychological & Brain Sciences","PR","NDW","PR.NDW",168644
+"MKTG","School of Business Marketing Department","PC","FT2","PC.FT2",165700
+"PHYS","Physics","PT","FT3","PT.FT3",79861
+"PSY","Psychological & Brain Sciences","PT","FT3","PT.FT3",86000
+"BLAN","Dept of Business Law & Ethics","PR","NDW","PR.NDW",155600
+"JOUR","Journalism","PT","FT3","PT.FT3",71400
+"MATH","Mathematics","PR","DST","PR.DST",146390
+"SPAN","Spanish & Portuguese","PR","FT1","PR.FT1",147970
+"GEOG","Geography","PT","FT3","PT.FT3",72000
+"CSCI","Computer Science","PR","FT1","PR.FT1",133340
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",191900
+"EALC","East Asian Langs & Cultures","PC","FT2","PC.FT2",72550
+"JOUR","Journalism","PT","FT3","PT.FT3",70010
+"PHYS","Physics","PR","FT1","PR.FT1",144197
+"ECON","Economics","PT","FT3","PT.FT3",100410
+"SOC","Sociology","PT","FT3","PT.FT3",74832
+"PL","Philosophy","PC","FT2","PC.FT2",78208
+"CSCI","Computer Science","PR","FT1","PR.FT1",137720
+"BI","Biology","PC","FT2","PC.FT2",96480
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",107178
+"SPHS","Speech & Hearing Sciences","PC","FT2","PC.FT2",96822
+"FOLK","Dept Folklore/Ethnomusicology","PT","FT3","PT.FT3",63735
+"ELPS","Leadership & Policy Studies","PT","FT3","PT.FT3",63750
+"AMST","American Studies","PT","FT3","PT.FT3",59508
+"SLS","Second Language Studies","PC","FT2","PC.FT2",73312
+"CRIN","Curriculum & Instruction","PT","FT3","PT.FT3",63500
+"MATH","Mathematics","PC","FT2","PC.FT2",80000
+"ELPS","Leadership & Policy Studies","PR","FT1","PR.FT1",89871
+"PSY","Psychological & Brain Sciences","PT","FT3","PT.FT3",83000
+"LGED","Language Education","PR","FT1","PR.FT1",90383
+"MGMT","Dept Mangement & Entrep","PC","FT2","PC.FT2",164900
+"CHEM","Chemistry","PC","FT2","PC.FT2",92412
+"MKTG","School of Business Marketing Department","PC","FT2","PC.FT2",175100
+"PHYS","Physics","PT","FT3","PT.FT3",77277
+"MATH","Mathematics","PT","FT3","PT.FT3",79663
+"HIST","History","PC","FT2","PC.FT2",86410
+"KINE","Kinesiology","PC","FT2","PC.FT2",74955
+"EALC","East Asian Langs & Cultures","PT","FT3","PT.FT3",70242
+"BEPP","School of Business Economics & Public","PT","FT3","PT.FT3",128400
+"APHS","Applied Health Science","PT","FT3","PT.FT3",74013
+"APHS","Applied Health Science","PC","FT2","PC.FT2",90447
+"MATH","Mathematics","PC","FT2","PC.FT2",82500
+"HIST","History","PR","FT1","PR.FT1",119140
+"ENG","English","PC","FT2","PC.FT2",79028
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",89072
+"FINS","Fine Arts Studio","PC","FT2","PC.FT2",75000
+"THTR","Theatre & Drama","PC","FT2","PC.FT2",64037
+"PHYS","Physics","PC","FT2","PC.FT2",91540
+"SLIS","Library & Information Science","PT","FT3","PT.FT3",82590
+"BI","Biology","PR","DST","PR.DST",144836
+"MATH","Mathematics","PR","FT1","PR.FT1",107548
+"ENG","English","PR","NDW","PR.NDW",121953
+"PHYS","Physics","PR","FT1","PR.FT1",130673
+"PHYS","Physics","PT","FT3","PT.FT3",79175
+"STAT","Statistics","PR","DST","PR.DST",183987
+"MUHI","Music School-Musicology","PR","FT1","PR.FT1",112145
+"CEUS","Central Eurasian Studies","PC","FT2","PC.FT2",77953
+"LAWS","Maurer School of Law","PC","FT2","PC.FT2",148000
+"BEPP","School of Business Economics & Public","PT","FT3","PT.FT3",128400
+"PL","Philosophy","PR","FT1","PR.FT1",126395
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",100008
+"AST","Astronomy","PR","FT1","PR.FT1",92021
+"ECON","Economics","PT","FT3","PT.FT3",115687
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",94798
+"SPHS","Speech & Hearing Sciences","PT","FT3","PT.FT3",80500
+"CSCI","Computer Science","PR","FT1","PR.FT1",174275
+"MATH","Mathematics","PR","FT1","PR.FT1",95000
+"EALC","East Asian Langs & Cultures","PT","FT3","PT.FT3",63411
+"BI","Biology","PR","DST","PR.DST",240026
+"MATH","Mathematics","PR","FT1","PR.FT1",121546
+"HIST","History","PT","FT3","PT.FT3",67205
+"ENG","English","PC","FT2","PC.FT2",76000
+"MKTG","School of Business Marketing Department","PR","NDW","PR.NDW",244000
+"PSY","Psychological & Brain Sciences","PR","NDW","PR.NDW",268905
+"POLS","Political Science","PC","FT2","PC.FT2",93923
+"FRIT","French and Italian","PR","FT1","PR.FT1",83820
+"APHS","Applied Health Science","PT","FT3","PT.FT3",76779
+"LAWS","Maurer School of Law","PC","FT2","PC.FT2",150500
+"HIST","History","PT","FT3","PT.FT3",64394
+"MGMT","Dept Mangement & Entrep","PT","FT3","PT.FT3",140500
+"CMCL","Communication & Culture","PC","FT2","PC.FT2",65000
+"MKTG","School of Business Marketing Department","PT","FT3","PT.FT3",150600
+"CRIN","Curriculum & Instruction","PT","FT3","PT.FT3",61679
+"SPEA","Public & Environmental Affairs","PC","FT2","PC.FT2",81200
+"MATH","Mathematics","PR","FT1","PR.FT1",130477
+"CRIN","Curriculum & Instruction","PC","FT2","PC.FT2",72654
+"REL","Religious Studies","PC","FT2","PC.FT2",72828
+"STAT","Statistics","PT","FT3","PT.FT3",86000
+"FINS","Fine Arts Studio","PC","FT2","PC.FT2",64786
+"MUST","Music School-String Technology","PR","FT1","PR.FT1",139000
+"BI","Biology","PT","FT3","PT.FT3",76618
+"CMLT","Comparative Literature","PR","FT1","PR.FT1",87126
+"JOUR","Journalism","PR","FT1","PR.FT1",105872
+"CEDP","Counseling & Educational Psy","PC","FT2","PC.FT2",76180
+"ELPS","Leadership & Policy Studies","PC","FT2","PC.FT2",66082
+"BI","Biology","PR","FT1","PR.FT1",115599
+"TELC","Telecommunications","PT","FT3","PT.FT3",67825
+"CRIN","Curriculum & Instruction","PR","FT1","PR.FT1",94564
+"ENG","English","PT","FT3","PT.FT3",72500
+"FINS","Fine Arts Studio","PC","FT2","PC.FT2",71658
+"LAWS","Maurer School of Law","PC","FT2","PC.FT2",148000
+"FOLK","Dept Folklore/Ethnomusicology","PR","NDW","PR.NDW",124961
+"GEOG","Geography","PT","FT3","PT.FT3",65056
+"PL","Philosophy","PR","FT1","PR.FT1",106971
+"ELPS","Leadership & Policy Studies","PC","FT2","PC.FT2",81534
+"APHS","Applied Health Science","PR","FT1","PR.FT1",110397
+"ELPS","Leadership & Policy Studies","PC","FT2","PC.FT2",89644
+"FOLK","Dept Folklore/Ethnomusicology","PT","FT3","PT.FT3",62676
+"STAT","Statistics","PT","FT3","PT.FT3",87193
+"MUIN","Instrument Applied Music","PR","DST","PR.DST",125540
+"MGMT","Dept Mangement & Entrep","PR","NDW","PR.NDW",247600
+"FOLK","Dept Folklore/Ethnomusicology","PR","FT1","PR.FT1",119331
+"AFRO","Afro-American Studies","PC","FT2","PC.FT2",68975
+"HIST","History","PR","NDW","PR.NDW",129684
+"CMLT","Comparative Literature","PR","FT1","PR.FT1",86825
+"THTR","Theatre & Drama","PC","FT2","PC.FT2",68275
+"POLS","Political Science","PR","FT1","PR.FT1",112570
+"HIST","History","PT","FT3","PT.FT3",63995
+"TELC","Telecommunications","PR","FT1","PR.FT1",87128
+"SPEA","Public & Environmental Affairs","PR","FT1","PR.FT1",124376
+"BI","Biology","PT","FT3","PT.FT3",76861
+"MUIN","Instrument Applied Music","PC","FT2","PC.FT2",89090
+"CRIN","Curriculum & Instruction","PT","FT3","PT.FT3",64770
+"SOC","Sociology","PC","FT2","PC.FT2",86879
+"MGMT","Dept Mangement & Entrep","PC","FT2","PC.FT2",164900
+"CRIN","Curriculum & Instruction","PR","FT1","PR.FT1",98462
+"MUTH","Music Theory","PR","FT1","PR.FT1",101600
+"LGED","Language Education","PC","FT2","PC.FT2",74773
+"INFO","Informatics","PC","FT2","PC.FT2",94320
+"SPAN","Spanish & Portuguese","PC","FT2","PC.FT2",70000
+"MUHI","Music School-Musicology","PR","FT1","PR.FT1",98013
+"INFO","Informatics","PR","FT1","PR.FT1",138789
+"FRIT","French and Italian","PR","FT1","PR.FT1",91690
+"SPEA","Public & Environmental Affairs","PC","FT2","PC.FT2",95366
+"PHYS","Physics","PR","FT1","PR.FT1",112616
+"JOUR","Journalism","PT","FT3","PT.FT3",70276
+"APHS","Applied Health Science","PT","FT3","PT.FT3",74522
+"BI","Biology","PC","FT2","PC.FT2",119646
+"ECON","Economics","PT","FT3","PT.FT3",111170
+"SOC","Sociology","PC","FT2","PC.FT2",100498
+"REL","Religious Studies","PT","FT3","PT.FT3",61603
+"FRIT","French and Italian","PR","FT1","PR.FT1",169160
+"KINE","Kinesiology","PR","FT1","PR.FT1",105885
+"ENG","English","PR","FT1","PR.FT1",111372
+"ENG","English","PR","FT1","PR.FT1",98000
+"ACTG","School of Business Accounting Department","PT","FT3","PT.FT3",192600
+"OPT","Optometry","PR","FT1","PR.FT1",101490
+"REL","Religious Studies","PR","FT1","PR.FT1",140912
+"MGMT","Dept Mangement & Entrep","PT","FT3","PT.FT3",142000
+"OADT","Business Operations & Decision Technolog","PT","FT3","PT.FT3",152600
+"CSCI","Computer Science","PC","FT2","PC.FT2",80118
+"SLIS","Library & Information Science","PT","FT3","PT.FT3",92396
+"CHEM","Chemistry","PR","FT1","PR.FT1",162343
+"BI","Biology","PC","FT2","PC.FT2",97000
+"ENG","English","PT","FT3","PT.FT3",62486
+"MUVO","Music-Voice Department","PR","FT1","PR.FT1",84575
+"BI","Biology","PT","FT3","PT.FT3",77052
+"HIST","History","PC","FT2","PC.FT2",75000
+"ENG","English","PC","FT2","PC.FT2",77500
+"MKTG","School of Business Marketing Department","PR","NDW","PR.NDW",232600
+"MATH","Mathematics","PR","FT1","PR.FT1",103084
+"RPAD","Recreation,Park&Tourism Studie","PC","FT2","PC.FT2",80787
+"HIST","History","PT","FT3","PT.FT3",72676
+"BI","Biology","PC","FT2","PC.FT2",86240
+"REL","Religious Studies","PT","FT3","PT.FT3",61332
+"ANTH","Anthropology","PC","FT2","PC.FT2",86868
+"AST","Astronomy","PR","FT1","PR.FT1",114309
+"BI","Biology","PC","FT2","PC.FT2",83058
+"MUST","Music School-String Technology","PR","FT1","PR.FT1",105762
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",75149
+"PSY","Psychological & Brain Sciences","PT","FT3","PT.FT3",80500
+"SPHS","Speech & Hearing Sciences","PR","FT1","PR.FT1",108985
+"PHYS","Physics","PR","FT1","PR.FT1",133999
+"MUHI","Music School-Musicology","PC","FT2","PC.FT2",73035
+"HIST","History","PC","FT2","PC.FT2",76182
+"SPAN","Spanish & Portuguese","PR","FT1","PR.FT1",102304
+"CSCI","Computer Science","PC","FT2","PC.FT2",107341
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",179850
+"FINS","Fine Arts Studio","PC","FT2","PC.FT2",84456
+"SPAN","Spanish & Portuguese","PC","FT2","PC.FT2",72361
+"MUIN","Instrument Applied Music","PC","FT2","PC.FT2",91039
+"ENG","English","PR","FT1","PR.FT1",96538
+"MGMT","Dept Mangement & Entrep","PR","NDW","PR.NDW",199000
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",99163
+"ELPS","Leadership & Policy Studies","PC","FT2","PC.FT2",82000
+"SPEA","Public & Environmental Affairs","PC","FT2","PC.FT2",115000
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",86919
+"FINS","Fine Arts Studio","PC","FT2","PC.FT2",73632
+"PSY","Psychological & Brain Sciences","PC","FT2","PC.FT2",82855
+"BI","Biology","PT","FT3","PT.FT3",76787
+"CSCI","Computer Science","PT","FT3","PT.FT3",94487
+"HIST","History","PC","FT2","PC.FT2",124238
+"GEOL","Geological Sciences","PT","FT3","PT.FT3",68924
+"MUVO","Music-Voice Department","PR","DST","PR.DST",113038
+"PSY","Psychological & Brain Sciences","PR","DST","PR.DST",183682
+"SPEA","Public & Environmental Affairs","PT","FT3","PT.FT3",79050
+"LGED","Language Education","PC","FT2","PC.FT2",79731
+"EALC","East Asian Langs & Cultures","PC","FT2","PC.FT2",73000
+"PL","Philosophy","PR","FT1","PR.FT1",161417
+"PSY","Psychological & Brain Sciences","PR","FT1","PR.FT1",98707
+"CHEM","Chemistry","PC","FT2","PC.FT2",96467
+"APHS","Applied Health Science","PC","FT2","PC.FT2",86346
+"LAWS","Maurer School of Law","PR","FT1","PR.FT1",167050
+"CRIN","Curriculum & Instruction","PC","FT2","PC.FT2",72842
+"BI","Biology","PC","FT2","PC.FT2",59882
+"SOC","Sociology","PC","FT2","PC.FT2",106000
+"GEOL","Geological Sciences","PC","FT2","PC.FT2",79966
+"LAWS","Maurer School of Law","PR","FT1","PR.FT1",152000
+"MATH","Mathematics","PR","FT1","PR.FT1",93896
+"PHYS","Physics","PR","FT1","PR.FT1",137763
+"CHEM","Chemistry","PR","DST","PR.DST",153281
+"MUHI","Music School-Musicology","PR","FT1","PR.FT1",91806
+"EALC","East Asian Langs & Cultures","PT","FT3","PT.FT3",65000
+"CEUS","Central Eurasian Studies","PT","FT3","PT.FT3",64589
+"ECON","Economics","PR","FT1","PR.FT1",235719
+"BI","Biology","PR","DST","PR.DST",232017
+"CMLT","Comparative Literature","PC","FT2","PC.FT2",71330
+"INFO","Informatics","PC","FT2","PC.FT2",83727
+"JOUR","Journalism","PR","FT1","PR.FT1",91611
+"CRIN","Curriculum & Instruction","PC","FT2","PC.FT2",71399
+"ECON","Economics","PR","NDW","PR.NDW",250230
+"ACTG","School of Business Accounting Department","PR","FT1","PR.FT1",137400
+"SPHS","Speech & Hearing Sciences","PT","FT3","PT.FT3",82248
+"TELC","Telecommunications","PC","FT2","PC.FT2",72341
+"GEOL","Geological Sciences","PR","FT1","PR.FT1",128953
+"LGED","Language Education","PC","FT2","PC.FT2",77754
+"OADT","Business Operations & Decision Technolog","PT","FT3","PT.FT3",150100
+"CEDP","Counseling & Educational Psy","PR","FT1","PR.FT1",91386
+"CEDP","Counseling & Educational Psy","PT","FT3","PT.FT3",76875
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",123492
+"HIST","History","PT","FT3","PT.FT3",67040
+"BLAN","Dept of Business Law & Ethics","PT","FT3","PT.FT3",113200
+"SOC","Sociology","PR","DST","PR.DST",162956
+"CHEM","Chemistry","PR","NDW","PR.NDW",151913
+"CMCL","Communication & Culture","PC","FT2","PC.FT2",78231
+"BI","Biology","PT","FT3","PT.FT3",76939
+"ANTH","Anthropology","PR","FT1","PR.FT1",88913
+"RPAD","Recreation,Park&Tourism Studie","PT","FT3","PT.FT3",75271
+"SPEA","Public & Environmental Affairs","PC","FT2","PC.FT2",96600
+"AST","Astronomy","PR","NDW","PR.NDW",206702
+"MATH","Mathematics","PR","FT1","PR.FT1",97808
+"MATH","Mathematics","PR","FT1","PR.FT1",107705
+"SPEA","Public & Environmental Affairs","PR","NDW","PR.NDW",143910
+"THTR","Theatre & Drama","PC","FT2","PC.FT2",70824
+"PSY","Psychological & Brain Sciences","PR","DST","PR.DST",187697
+"INFO","Informatics","PR","FT1","PR.FT1",151402
+"CHEM","Chemistry","PR","NDW","PR.NDW",162685
+"GEOL","Geological Sciences","PR","FT1","PR.FT1",86175
+"BI","Biology","PT","FT3","PT.FT3",78755
+"BFIN","School of Business Finance Department","PC","FT2","PC.FT2",220000
+"OPT","Optometry","PT","FT3","PT.FT3",76343
+"TELC","Telecommunications","PC","FT2","PC.FT2",81921
+"MUVO","Music-Voice Department","PR","FT1","PR.FT1",110135
+"SOC","Sociology","PR","NDW","PR.NDW",144000
+"CMCL","Communication & Culture","PT","FT3","PT.FT3",61000
+"LGED","Language Education","PC","FT2","PC.FT2",72464
+"ACTG","School of Business Accounting Department","PR","NDW","PR.NDW",237100
+"BLAN","Dept of Business Law & Ethics","PC","FT2","PC.FT2",117600
+"MUIN","Instrument Applied Music","PR","DST","PR.DST",170007
+"PSY","Psychological & Brain Sciences","PC","FT2","PC.FT2",75988
+"BEPP","School of Business Economics & Public","PC","FT2","PC.FT2",151600
+"CSCI","Computer Science","PR","FT1","PR.FT1",113952
+"ECON","Economics","PC","FT2","PC.FT2",172000
+"ANTH","Anthropology","PR","FT1","PR.FT1",89588
+"PHYS","Physics","PR","FT1","PR.FT1",170445
+"LAWS","Maurer School of Law","PC","FT2","PC.FT2",148000
+"CSCI","Computer Science","PC","FT2","PC.FT2",114036
+"SPEA","Public & Environmental Affairs","PT","FT3","PT.FT3",82020
+"CHEM","Chemistry","PR","FT1","PR.FT1",213716
+"KINE","Kinesiology","PR","FT1","PR.FT1",118586
+"GEOG","Geography","PC","FT2","PC.FT2",78540
+"MATH","Mathematics","PT","FT3","PT.FT3",82000
+"RPAD","Recreation,Park&Tourism Studie","PT","FT3","PT.FT3",67779
+"CSCI","Computer Science","PR","FT1","PR.FT1",128295
+"GERM","Germanic Studies","PR","FT1","PR.FT1",105985
+"POLS","Political Science","PR","FT1","PR.FT1",118467
+"BEPP","School of Business Economics & Public","PR","NDW","PR.NDW",174900
+"BEPP","School of Business Economics & Public","PC","FT2","PC.FT2",140200
+"CEUS","Central Eurasian Studies","PR","FT1","PR.FT1",138010
+"CSCI","Computer Science","PC","FT2","PC.FT2",75639
+"JOUR","Journalism","PR","FT1","PR.FT1",90238
+"BLAN","Dept of Business Law & Ethics","PT","FT3","PT.FT3",98600
+"POLS","Political Science","PC","FT2","PC.FT2",82024
+"FOLK","Dept Folklore/Ethnomusicology","PC","FT2","PC.FT2",69919
+"MKTG","School of Business Marketing Department","PC","FT2","PC.FT2",155400
+"ACTG","School of Business Accounting Department","PC","FT2","PC.FT2",198000
+"FINS","Fine Arts Studio","PC","FT2","PC.FT2",71921
+"FINH","Fine Arts - History","PC","FT2","PC.FT2",74363
+"CHEM","Chemistry","PR","FT1","PR.FT1",195449
+"SPEA","Public & Environmental Affairs","PT","FT3","PT.FT3",92925
+"SPEA","Public & Environmental Affairs","PR","FT1","PR.FT1",127355
+"BI","Biology","PC","FT2","PC.FT2",81000
+"AST","Astronomy","PC","FT2","PC.FT2",79010
+"SPEA","Public & Environmental Affairs","PR","FT1","PR.FT1",139719
+"FINS","Fine Arts Studio","PT","FT3","PT.FT3",62968
+"BI","Biology","PR","DST","PR.DST",166072
+"SPEA","Public & Environmental Affairs","PR","FT1","PR.FT1",137615
+"GEOL","Geological Sciences","PR","FT1","PR.FT1",123984
+"SPAN","Spanish & Portuguese","PT","FT3","PT.FT3",62500
+"SLIS","Library & Information Science","PC","FT2","PC.FT2",93945
+"MUIN","Instrument Applied Music","PC","FT2","PC.FT2",101031
+"GEOG","Geography","PR","FT1","PR.FT1",123956
+"HIST","History","PR","FT1","PR.FT1",97693
+"EALC","East Asian Langs & Cultures","PR","FT1","PR.FT1",101001
+"STAT","Statistics","PT","FT3","PT.FT3",77791
+"INFO","Informatics","PR","FT1","PR.FT1",137204
+"SOC","Sociology","PC","FT2","PC.FT2",82443
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",111073
+"HIST","History","PC","FT2","PC.FT2",70000
+"AFRO","Afro-American Studies","PR","FT1","PR.FT1",86417
+"RPAD","Recreation,Park&Tourism Studie","PR","FT1","PR.FT1",124365
+"ELPS","Leadership & Policy Studies","PR","FT1","PR.FT1",122261
+"SPEA","Public & Environmental Affairs","PT","FT3","PT.FT3",99972
+"FRIT","French and Italian","PC","FT2","PC.FT2",69532
+"BI","Biology","PC","FT2","PC.FT2",96054
+"GEOG","Geography","PT","FT3","PT.FT3",75772
+"EALC","East Asian Langs & Cultures","PR","FT1","PR.FT1",127425
+"ELPS","Leadership & Policy Studies","PT","FT3","PT.FT3",71750
+"CEDP","Counseling & Educational Psy","PT","FT3","PT.FT3",77056
+"PSY","Psychological & Brain Sciences","PT","FT3","PT.FT3",77077
+"INFO","Informatics","PT","FT3","PT.FT3",82056
+"SPAN","Spanish & Portuguese","PR","FT1","PR.FT1",117010
+"HIST","History","PT","FT3","PT.FT3",71540
+"KINE","Kinesiology","PC","FT2","PC.FT2",89573
+"FINH","Fine Arts - History","PT","FT3","PT.FT3",65500
+"ENG","English","PC","FT2","PC.FT2",76497
+"MUTH","Music Theory","PC","FT2","PC.FT2",72045
+"LGED","Language Education","PT","FT3","PT.FT3",62648
+"LAWS","Maurer School of Law","PC","FT2","PC.FT2",148000
+"HIST","History","PR","FT1","PR.FT1",106598
+"SPEA","Public & Environmental Affairs","PT","FT3","PT.FT3",90610
+"EALC","East Asian Langs & Cultures","PC","FT2","PC.FT2",77703
+"SPAN","Spanish & Portuguese","PR","FT1","PR.FT1",97485
+"CRIN","Curriculum & Instruction","PT","FT3","PT.FT3",64871
+"POLS","Political Science","PR","FT1","PR.FT1",146998
+"ANTH","Anthropology","PR","FT1","PR.FT1",94143
+"GEOL","Geological Sciences","PR","FT1","PR.FT1",104387
+"ENG","English","PR","NDW","PR.NDW",97659
+"HIST","History","PT","FT3","PT.FT3",65740
+"PL","Philosophy","PR","FT1","PR.FT1",112570
+"HIST","History","PR","FT1","PR.FT1",112030
+"ANTH","Anthropology","PC","FT2","PC.FT2",74253
+"REL","Religious Studies","PC","FT2","PC.FT2",75000
+"FOLK","Dept Folklore/Ethnomusicology","PC","FT2","PC.FT2",63767
+"FINH","Fine Arts - History","PT","FT3","PT.FT3",60890
+"LAWS","Maurer School of Law","PC","FT2","PC.FT2",149500
+"AMST","American Studies","PC","FT2","PC.FT2",76875
+"CMCL","Communication & Culture","PC","FT2","PC.FT2",75267
+"CEUS","Central Eurasian Studies","PC","FT2","PC.FT2",65381
+"AMST","American Studies","PC","FT2","PC.FT2",74584
+"MGMT","Dept Mangement & Entrep","PC","FT2","PC.FT2",166900
+"PSY","Psychological & Brain Sciences","PR","FT1","PR.FT1",109891
+"APHS","Applied Health Science","PC","FT2","PC.FT2",98201
+"ANTH","Anthropology","PR","FT1","PR.FT1",190674
+"PHYS","Physics","PT","FT3","PT.FT3",76836
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",82133
+"PHYS","Physics","PC","FT2","PC.FT2",99494
+"BFIN","School of Business Finance Department","PC","FT2","PC.FT2",218000
+"CEDP","Counseling & Educational Psy","PR","FT1","PR.FT1",101354
+"MATH","Mathematics","PC","FT2","PC.FT2",76137
+"BLAN","Dept of Business Law & Ethics","PT","FT3","PT.FT3",111000
+"CEUS","Central Eurasian Studies","PR","FT1","PR.FT1",112225
+"CSCI","Computer Science","PT","FT3","PT.FT3",95950
+"PL","Philosophy","PT","FT3","PT.FT3",60555
+"SPEA","Public & Environmental Affairs","PC","FT2","PC.FT2",107422
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",110109
+"BI","Biology","PC","FT2","PC.FT2",83379
+"KINE","Kinesiology","PR","FT1","PR.FT1",150884
+"ACTG","School of Business Accounting Department","PT","FT3","PT.FT3",181200
+"MGMT","Dept Mangement & Entrep","PR","NDW","PR.NDW",234800
+"PHYS","Physics","PC","FT2","PC.FT2",95000
+"PSY","Psychological & Brain Sciences","PR","DST","PR.DST",308228
+"SLS","Second Language Studies","PT","FT3","PT.FT3",58791
+"BFIN","School of Business Finance Department","PC","FT2","PC.FT2",187300
+"SPHS","Speech & Hearing Sciences","PC","FT2","PC.FT2",102841
+"HIST","History","PC","FT2","PC.FT2",72838
+"FOLK","Dept Folklore/Ethnomusicology","PC","FT2","PC.FT2",72962
+"REL","Religious Studies","PC","FT2","PC.FT2",73920
+"INFO","Informatics","PR","FT1","PR.FT1",138794
+"CSCI","Computer Science","PC","FT2","PC.FT2",115000
+"INFO","Informatics","PC","FT2","PC.FT2",115000
+"CEUS","Central Eurasian Studies","PR","NDW","PR.NDW",78629
+"LAWS","Maurer School of Law","PR","FT1","PR.FT1",157003
+"SPEA","Public & Environmental Affairs","PC","FT2","PC.FT2",119961
+"SPEA","Public & Environmental Affairs","PR","FT1","PR.FT1",169912
+"CMCL","Communication & Culture","PC","FT2","PC.FT2",79360
+"MUVO","Music-Voice Department","PR","FT1","PR.FT1",97284
+"POLS","Political Science","PC","FT2","PC.FT2",85000
+"CEDP","Counseling & Educational Psy","PR","FT1","PR.FT1",98581
+"CHEM","Chemistry","PT","FT3","PT.FT3",90000
+"MKTG","School of Business Marketing Department","PC","FT2","PC.FT2",182500
+"MUHI","Music School-Musicology","PC","FT2","PC.FT2",62010
+"CHEM","Chemistry","PC","FT2","PC.FT2",120000
+"PSY","Psychological & Brain Sciences","PR","DST","PR.DST",211827
+"FINS","Fine Arts Studio","PC","FT2","PC.FT2",68076
+"APHS","Applied Health Science","PC","FT2","PC.FT2",104145
+"POLS","Political Science","PC","FT2","PC.FT2",88006
+"CHEM","Chemistry","PT","FT3","PT.FT3",80000
+"AMST","American Studies","PC","FT2","PC.FT2",74938
+"MATH","Mathematics","PT","FT3","PT.FT3",86627
+"BI","Biology","PT","FT3","PT.FT3",76885
+"PHYS","Physics","PR","FT1","PR.FT1",172753
+"MATH","Mathematics","PR","FT1","PR.FT1",89234
+"OADT","Business Operations & Decision Technolog","PC","FT2","PC.FT2",169100
+"HIST","History","PC","FT2","PC.FT2",88009
+"POLS","Political Science","PC","FT2","PC.FT2",72254
+"CEUS","Central Eurasian Studies","PC","FT2","PC.FT2",94509
+"MUIN","Instrument Applied Music","PC","FT2","PC.FT2",89020
+"PSY","Psychological & Brain Sciences","PR","NDW","PR.NDW",150000
+"ACTG","School of Business Accounting Department","PR","FT1","PR.FT1",207700
+"GERM","Germanic Studies","PR","NDW","PR.NDW",86720
+"OPT","Optometry","PC","FT2","PC.FT2",79945
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",208100
+"AFRO","Afro-American Studies","PR","FT1","PR.FT1",114972
+"KINE","Kinesiology","PC","FT2","PC.FT2",88912
+"SOC","Sociology","PC","FT2","PC.FT2",86883
+"CEDP","Counseling & Educational Psy","PC","FT2","PC.FT2",72648
+"FRIT","French and Italian","PR","FT1","PR.FT1",159133
+"ANTH","Anthropology","PC","FT2","PC.FT2",73362
+"ACTG","School of Business Accounting Department","PR","FT1","PR.FT1",124700
+"MATH","Mathematics","PR","FT1","PR.FT1",105671
+"SPEA","Public & Environmental Affairs","PR","FT1","PR.FT1",153000
+"MUVO","Music-Voice Department","PR","FT1","PR.FT1",82026
+"ANTH","Anthropology","PR","FT1","PR.FT1",81552
+"BFIN","School of Business Finance Department","PT","FT3","PT.FT3",192100
+"FRIT","French and Italian","PR","FT1","PR.FT1",105820
+"MATH","Mathematics","PC","FT2","PC.FT2",99546
+"PHYS","Physics","PT","FT3","PT.FT3",77000
+"CEDP","Counseling & Educational Psy","PC","FT2","PC.FT2",71395
+"SLS","Second Language Studies","PC","FT2","PC.FT2",67812
+"CMCL","Communication & Culture","PC","FT2","PC.FT2",78164
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",96530
+"MUST","Music School-String Technology","PR","FT1","PR.FT1",141656
+"EALC","East Asian Langs & Cultures","PT","FT3","PT.FT3",64703
+"SLIS","Library & Information Science","PT","FT3","PT.FT3",91290
+"BI","Biology","PC","FT2","PC.FT2",60674
+"ANTH","Anthropology","PC","FT2","PC.FT2",74000
+"ELPS","Leadership & Policy Studies","PC","FT2","PC.FT2",76011
+"EALC","East Asian Langs & Cultures","PC","FT2","PC.FT2",70067
+"CEDP","Counseling & Educational Psy","PT","FT3","PT.FT3",69365
+"OPT","Optometry","PR","FT1","PR.FT1",107108
+"CSCI","Computer Science","PC","FT2","PC.FT2",133896
+"HIST","History","PT","FT3","PT.FT3",62256
+"THTR","Theatre & Drama","PC","FT2","PC.FT2",76267
+"MUIN","Instrument Applied Music","PC","FT2","PC.FT2",64920
+"CHEM","Chemistry","PT","FT3","PT.FT3",84302
+"LAWS","Maurer School of Law","PR","FT1","PR.FT1",151700
+"CSCI","Computer Science","PC","FT2","PC.FT2",114453
+"BI","Biology","PC","FT2","PC.FT2",81898
+"MUIN","Instrument Applied Music","PC","FT2","PC.FT2",71449
+"PHYS","Physics","PC","FT2","PC.FT2",92411
+"SOC","Sociology","PT","FT3","PT.FT3",72876
+"FINS","Fine Arts Studio","PC","FT2","PC.FT2",81000
+"MGMT","Dept Mangement & Entrep","PT","FT3","PT.FT3",135200
+"CMCL","Communication & Culture","PC","FT2","PC.FT2",76786
+"CHEM","Chemistry","PT","FT3","PT.FT3",79981
+"SOC","Sociology","PR","NDW","PR.NDW",183831
+"POLS","Political Science","PR","DST","PR.DST",195161
+"MATH","Mathematics","PC","FT2","PC.FT2",110834
+"BFIN","School of Business Finance Department","PT","FT3","PT.FT3",207000
+"CSCI","Computer Science","PT","FT3","PT.FT3",92500
+"ANTH","Anthropology","PR","FT1","PR.FT1",106608
+"MATH","Mathematics","PR","NDW","PR.NDW",206051
+"PSY","Psychological & Brain Sciences","PR","DST","PR.DST",143437
+"CEDP","Counseling & Educational Psy","PC","FT2","PC.FT2",82847
+"SPEA","Public & Environmental Affairs","PT","FT3","PT.FT3",112270
+"LING","Linguistics","PR","FT1","PR.FT1",91246
+"BFIN","School of Business Finance Department","PR","NDW","PR.NDW",206900
+"CMLT","Comparative Literature","PT","FT3","PT.FT3",61096
+"GERM","Germanic Studies","PC","FT2","PC.FT2",68310
+"BFIN","School of Business Finance Department","PR","FT1","PR.FT1",256600
+"ENG","English","PR","FT1","PR.FT1",130000
+"PHYS","Physics","PR","FT1","PR.FT1",118907
+"FRIT","French and Italian","PT","FT3","PT.FT3",63898
+"CMLT","Comparative Literature","PT","FT3","PT.FT3",65008
+"CSCI","Computer Science","PR","FT1","PR.FT1",124983
+"PHYS","Physics","PR","FT1","PR.FT1",147360
+"CHEM","Chemistry","PC","FT2","PC.FT2",120596
+"FINH","Fine Arts - History","PC","FT2","PC.FT2",66839
+"FRIT","French and Italian","PC","FT2","PC.FT2",58276
+"MUVO","Music-Voice Department","PR","FT1","PR.FT1",140653
+"ENG","English","PT","FT3","PT.FT3",66372
+"CEDP","Counseling & Educational Psy","PT","FT3","PT.FT3",61666
+"AST","Astronomy","PT","FT3","PT.FT3",68752
+"INFO","Informatics","PR","NDW","PR.NDW",154000
+"SPAN","Spanish & Portuguese","PT","FT3","PT.FT3",60940
+"PSY","Psychological & Brain Sciences","PR","FT1","PR.FT1",91171
+"SPAN","Spanish & Portuguese","PC","FT2","PC.FT2",69117
+"FRIT","French and Italian","PR","FT1","PR.FT1",120297
+"ANTH","Anthropology","PR","FT1","PR.FT1",110000
+"BI","Biology","PR","DST","PR.DST",180489
+"ACTG","School of Business Accounting Department","PR","FT1","PR.FT1",228500
+"HIST","History","PR","FT1","PR.FT1",128778
+"CEDP","Counseling & Educational Psy","PT","FT3","PT.FT3",63885
+"ECON","Economics","PR","FT1","PR.FT1",206947
+"ECON","Economics","PC","FT2","PC.FT2",154000
+"KINE","Kinesiology","PR","FT1","PR.FT1",115762
+"CMCL","Communication & Culture","PR","FT1","PR.FT1",125013
+"SLIS","Library & Information Science","PC","FT2","PC.FT2",100691
+"KINE","Kinesiology","PT","FT3","PT.FT3",65376
+"MUIN","Instrument Applied Music","PR","FT1","PR.FT1",81161
+"MKTG","School of Business Marketing Department","PR","FT1","PR.FT1",152600
+"ELPS","Leadership & Policy Studies","PC","FT2","PC.FT2",71870
+"MATH","Mathematics","PR","FT1","PR.FT1",114500
+"CSCI","Computer Science","PC","FT2","PC.FT2",119497
+"BFIN","School of Business Finance Department","PR","FT1","PR.FT1",278100
+"PSY","Psychological & Brain Sciences","PR","NDW","PR.NDW",214979
+"GEOL","Geological Sciences","PT","FT3","PT.FT3",70719
+"TELC","Telecommunications","PR","FT1","PR.FT1",105375
+"LAWS","Maurer School of Law","PR","FT1","PR.FT1",151500
+"ENG","English","PR","FT1","PR.FT1",145434
+"MUIN","Instrument Applied Music","PR","NDW","PR.NDW",130526
+"TELC","Telecommunications","PT","FT3","PT.FT3",69649
+"MATH","Mathematics","PR","FT1","PR.FT1",99368
+"SOC","Sociology","PR","FT1","PR.FT1",113874
+"PL","Philosophy","PR","FT1","PR.FT1",114243
+"GERM","Germanic Studies","PR","FT1","PR.FT1",91363
+"FINS","Fine Arts Studio","PC","FT2","PC.FT2",67971
+"SPAN","Spanish & Portuguese","PT","FT3","PT.FT3",59507
+"THTR","Theatre & Drama","PT","FT3","PT.FT3",57500
+"PSY","Psychological & Brain Sciences","PR","FT1","PR.FT1",86231
+"AFRO","Afro-American Studies","PC","FT2","PC.FT2",80000
+"MATH","Mathematics","PC","FT2","PC.FT2",71834
+"CEDP","Counseling & Educational Psy","PR","FT1","PR.FT1",116264
+"MGMT","Dept Mangement & Entrep","PT","FT3","PT.FT3",135300
+"LAWS","Maurer School of Law","PC","FT2","PC.FT2",149500
+"CHEM","Chemistry","PR","FT1","PR.FT1",167105
+"INFO","Informatics","PC","FT2","PC.FT2",105654
+"BEPP","School of Business Economics & Public","PC","FT2","PC.FT2",135000
+"ANTH","Anthropology","PR","NDW","PR.NDW",116520
+"KINE","Kinesiology","PT","FT3","PT.FT3",66289
+"ECON","Economics","PR","FT1","PR.FT1",145638
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",187250
+"CHEM","Chemistry","PR","NDW","PR.NDW",206350
+"AFRO","Afro-American Studies","PC","FT2","PC.FT2",87500
+"LAWS","Maurer School of Law","PR","NDW","PR.NDW",187250
+"AFRO","Afro-American Studies","PR","FT1","PR.FT1",107031
+"SPAN","Spanish & Portuguese","PC","FT2","PC.FT2",72024
+"JOUR","Journalism","PR","FT1","PR.FT1",108160
+"BI","Biology","PR","FT1","PR.FT1",142463
+"OADT","Business Operations & Decision Technolog","PR","NDW","PR.NDW",190800
+"GEOL","Geological Sciences","PR","FT1","PR.FT1",102040
+"PHYS","Physics","PR","FT1","PR.FT1",103000
+"SPHS","Speech & Hearing Sciences","PC","FT2","PC.FT2",83086
+"LGED","Language Education","PC","FT2","PC.FT2",72921
+"FINS","Fine Arts Studio","PR","NDW","PR.NDW",136009
+"CEDP","Counseling & Educational Psy","PC","FT2","PC.FT2",74618
+"PL","Philosophy","PR","NDW","PR.NDW",196987
+"PL","Philosophy","PR","FT1","PR.FT1",67724
+"POLS","Political Science","PR","FT1","PR.FT1",150538
+"TELC","Telecommunications","PT","FT3","PT.FT3",64500
+"HIST","History","PT","FT3","PT.FT3",68648
+"CSCI","Computer Science","PC","FT2","PC.FT2",108561
+"EALC","East Asian Langs & Cultures","PT","FT3","PT.FT3",60000
+"OADT","Business Operations & Decision Technolog","PT","FT3","PT.FT3",147400
+"BFIN","School of Business Finance Department","PC","FT2","PC.FT2",207500
+"JOUR","Journalism","PC","FT2","PC.FT2",96425
+"BFIN","School of Business Finance Department","PT","FT3","PT.FT3",198100
+"APHS","Applied Health Science","PR","FT1","PR.FT1",166818
+"CSCI","Computer Science","PC","FT2","PC.FT2",106723
+"SLS","Second Language Studies","PT","FT3","PT.FT3",61240
+"ACTG","School of Business Accounting Department","PR","FT1","PR.FT1",212500
+"BFIN","School of Business Finance Department","PT","FT3","PT.FT3",202200
+"RPAD","Recreation,Park&Tourism Studie","PC","FT2","PC.FT2",91299
+"PSY","Psychological & Brain Sciences","PC","FT2","PC.FT2",95504
+"BFIN","School of Business Finance Department","PC","FT2","PC.FT2",221000
+"CHEM","Chemistry","PT","FT3","PT.FT3",80935
+"CHEM","Chemistry","PR","FT1","PR.FT1",129136
+"MUHI","Music School-Musicology","PT","FT3","PT.FT3",54501
+"BI","Biology","PT","FT3","PT.FT3",76624
+"OADT","Business Operations & Decision Technolog","PT","FT3","PT.FT3",147400
+"CSCI","Computer Science","PT","FT3","PT.FT3",92500
+"PHYS","Physics","PT","FT3","PT.FT3",76748
+"GEOL","Geological Sciences","PR","FT1","PR.FT1",105786
+"BI","Biology","PR","FT1","PR.FT1",116592
+"MUST","Music School-String Technology","PR","FT1","PR.FT1",138022
