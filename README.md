@@ -1,6 +1,7 @@
 # DBDA-python
-This repository contains Python code for a selection of models and figures from the book <A target="_blank" href='https://sites.google.com/site/doingbayesiandataanalysis/'>'Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan'</A> by John Kruschke (2015). The datasets used in this repository have been retrieved from the book's website.<P>
-
+I recently started looking into probabilistic modelling by reading <A target="_blank" href='https://sites.google.com/site/doingbayesiandataanalysis/'>'Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan'</A> by John Kruschke (2015). This repository contains Python code for a selection of models and figures from the book.
+The datasets used in this repository have been retrieved from the book's website.<P>
+ 
 ...work in process..<P>
 
 <IMG src='https://9b8e0032-a-62cb3a1a-s-sites.googlegroups.com/site/doingbayesiandataanalysis/what-s-new-in-2nd-ed/CoverDBDA2E-FrontOnly-600wide.png' , height=30%, width=30%><P>
