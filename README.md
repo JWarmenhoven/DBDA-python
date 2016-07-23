@@ -1,6 +1,6 @@
 # DBDA-python
-I recently started looking into probabilistic modelling by reading <A target="_blank" href='https://sites.google.com/site/doingbayesiandataanalysis/'>'Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan'</A> by John Kruschke (2015). This repository contains Python code (<A href='http://pymc-devs.github.io/pymc3/'>PyMC3</A>) for a selection of models and figures from the book.
-The datasets used in this repository have been retrieved from the book's website.<P>
+This repository contains Python code (<A href='http://pymc-devs.github.io/pymc3/'>PyMC3</A>) for a selection of models and figures from the book <A target="_blank" href='https://sites.google.com/site/doingbayesiandataanalysis/'>'Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan'</A> by John Kruschke (2015).
+The datasets used in this repository have been retrieved from the book's website. Note that, in its current form, this repository is not a tutorial and that you probably should have a copy of the book to follow along. Suggestions for improvement and help with unsolved issues are welcome!<P>
  
 ...work in process..<P>
 
