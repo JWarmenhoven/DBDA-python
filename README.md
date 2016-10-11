@@ -1,5 +1,5 @@
 # DBDA-python
-This repository contains Python code (<A href='http://pymc-devs.github.io/pymc3/'>PyMC3</A>) for a selection of models and figures from the book <A target="_blank" href='https://sites.google.com/site/doingbayesiandataanalysis/'>'Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan'</A> by John Kruschke (2015).
+This repository contains Python code (<A href='http://pymc-devs.github.io/pymc3/'>PyMC3</A>) for a selection of models and figures from the book <A target="_blank" href='https://sites.google.com/site/doingbayesiandataanalysis/'>'Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan'</A>, Second Edition, by John Kruschke (2015).
 The datasets used in this repository have been retrieved from the book's website. Note that, in its current form, this repository is not a tutorial and that you probably should have a copy of the book to follow along. Suggestions for improvement and help with unsolved issues are welcome!<P>
 
 <IMG src='https://9b8e0032-a-62cb3a1a-s-sites.googlegroups.com/site/doingbayesiandataanalysis/what-s-new-in-2nd-ed/CoverDBDA2E-FrontOnly-600wide.png' , height=30%, width=30%><P>
@@ -27,3 +27,7 @@ Libraries used:
 #####References:
 Bishop, C.M. (2006), <I>Pattern Recognition and Machine Learning</I>, Springer Science+Business Media, New York. https://www.microsoft.com/en-us/research/people/cmbishop/<P>
 Kruschke, J.K., (2015). <I>Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan</I>, Second Edition, Academic Press / Elsevier. https://sites.google.com/site/doingbayesiandataanalysis/
+<P>
+#####Note:
+The following repository contains python code for the first edition of the book. The code in that repository is a much more direct implementation of the R/JAGS code from the book than you will find here.<BR>
+https://github.com/aloctavodia/Doing_bayesian_data_analysis
