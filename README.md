@@ -27,6 +27,7 @@ Libraries used:
 Bishop, C.M. (2006), <I>Pattern Recognition and Machine Learning</I>, Springer Science+Business Media, New York. https://www.microsoft.com/en-us/research/people/cmbishop/<P>
 Kruschke, J.K., (2015). <I>Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan</I>, Second Edition, Academic Press / Elsevier. https://sites.google.com/site/doingbayesiandataanalysis/
 <P>
+Salvatier J, Wiecki TV, Fonnesbeck C. (2016) Probabilistic programming in Python using PyMC3. PeerJ Computer Science 2:e55 https://doi.org/10.7717/peerj-cs.55
 #####Note:
 The following repository contains python code for the first edition of the book. The code in that repository is a much more direct implementation of the R/JAGS code from the book than you will find here.<BR>
 https://github.com/aloctavodia/Doing_bayesian_data_analysis
