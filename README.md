@@ -1,7 +1,7 @@
 # DBDA-python
 This repository contains Python code (<A href='http://pymc-devs.github.io/pymc3/'>PyMC3</A>) for a selection of models and figures from the book <A target="_blank" href='https://sites.google.com/site/doingbayesiandataanalysis/'>'Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan'</A>, Second Edition, by John Kruschke (2015).
 The datasets used in this repository have been retrieved from the book's website. Note that, in its current form, this repository is not a tutorial and that you probably should have a copy of the book to follow along. Suggestions for improvement and help with unsolved issues are welcome!<P>
-Some of the more general concepts from the book are discussed in <A href ='http://dx.doi.org/10.3758/s13423-016-1221-4'>Kruschke, J.K. & Liddell, T.M (2017)</A>.
+Some of the general concepts from the book are discussed in a paper by <A href ='http://dx.doi.org/10.3758/s13423-016-1221-4'>Kruschke, J.K. & Liddell, T.M (2017)</A>.
 </P>
 <IMG src='https://9b8e0032-a-62cb3a1a-s-sites.googlegroups.com/site/doingbayesiandataanalysis/what-s-new-in-2nd-ed/CoverDBDA2E-FrontOnly-600wide.png' , height=30%, width=30%><P>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%209.ipynb'>Chapter 9 - Hierarchical Models</A><BR>
