@@ -24,7 +24,7 @@ Libraries used:
  - matplotlib
  - seaborn  
 
-#####References:
+##### References:
 Bishop, C.M. (2006), <I>Pattern Recognition and Machine Learning</I>, Springer Science+Business Media, New York. https://www.microsoft.com/en-us/research/people/cmbishop/<P>
 Kruschke, J.K. & Liddell, T.M. (2017), <I>The Bayesian New Statistics: Hypothesis testing, estimation, meta-analysis, and power analysis from a Bayesian perspective</I>, Psychonomic Bulletin & Review, http://dx.doi.org/10.3758/s13423-016-1221-4
 <P>
