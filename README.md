@@ -16,14 +16,13 @@ Some of the general concepts from the book are discussed in a paper by <A href =
 <P>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/Various-Machine-Learning-bits/blob/master/Bayesian%20Linear%20Regression.ipynb'> Extra: Bayesian Linear Regression example (Bishop, 2006)</A><P>
 Libraries used:
-<UL>
-<LI>pymc3
-<LI>pandas
-<LI>numpy
-<LI>scipy
-<LI>matplotlib
-<LI>seaborn
-</UL>
+
+ - pymc3
+ - pandas
+ - numpy
+ - scipy
+ - matplotlib
+ - seaborn  
 
 #####References:
 Bishop, C.M. (2006), <I>Pattern Recognition and Machine Learning</I>, Springer Science+Business Media, New York. https://www.microsoft.com/en-us/research/people/cmbishop/<P>
