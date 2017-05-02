@@ -1,4 +1,4 @@
-# DBDA-python
+# Doing Bayesian Data Analysis - Python/PyMC3
 This repository contains Python/PyMC3 code for a selection of models and figures from the book <A target="_blank" href='https://sites.google.com/site/doingbayesiandataanalysis/'>'Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan'</A>, Second Edition, by John Kruschke (2015).
 The datasets used in this repository have been retrieved from the book's website. Note that, in its current form, this repository is not a tutorial and that you probably should have a copy of the book to follow along. Suggestions for improvement and help with unsolved issues are welcome!<P>
 Some of the general concepts from the book are discussed in a paper by <A href ='http://dx.doi.org/10.3758/s13423-016-1221-4'>Kruschke, J.K. & Liddell, T.M (2017)</A>.
