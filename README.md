@@ -21,6 +21,7 @@ Some of the general concepts from the book are discussed in a paper by <A href =
 Libraries used:
 
  - pymc3
+ - theano
  - pandas
  - numpy
  - scipy
