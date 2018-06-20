@@ -18,7 +18,10 @@ Some of the general concepts from the book are discussed in papers by Kruschke &
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2023.ipynb'>Chapter 23 - Ordinal Predicted Variable</A><BR>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2024.ipynb'>Chapter 24 - Count Predicted Variable</A>
 <P>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/Various-Machine-Learning-bits/blob/master/Bayesian%20Linear%20Regression.ipynb'> Extra: Bayesian Linear Regression example (Bishop, 2006)</A><P>
+Extra:<BR>
+<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/Various-Machine-Learning-bits/blob/master/Bayesian%20Linear%20Regression.ipynb'>Bayesian Linear Regression example (Bishop, 2006)</A><BR>
+<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Ordinal%20Model_Kruschke_Liddell.ipynb'>Example on modelling Ordinal Data (Liddell & Kruschke, 2018)</A>
+<P>
 Libraries used:
 
  - pymc3
@@ -37,6 +40,8 @@ Kruschke, J.K. & Liddell, T.M. (2017), <I>The Bayesian New Statistics: Hypothesi
 <P>
 Kruschke, J.K. & Liddell, T.M. (2017), <I>Bayesian data analysis for newcomers</I>, Psychonomic Bulletin & Review, http://dx.doi.org/10.3758/s13423-017-1272-1
 <P>
+Liddell, T., & Kruschke, J. K. (2018, April 5). Analyzing ordinal data with metric models: What could possibly go wrong? Retrieved from http://osf.io/3tkz4 
+ <P>
 Salvatier J, Wiecki TV, Fonnesbeck C. (2016), <I>Probabilistic programming in Python using PyMC3</I>, PeerJ Computer Science 2:e55, https://doi.org/10.7717/peerj-cs.55 <BR>
 PyMC3 - http://pymc-devs.github.io/pymc3/
 
