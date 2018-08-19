@@ -4,8 +4,13 @@ The datasets used in this repository have been retrieved from the book's website
 Note that the code is in Jupyter Notebook format and requires modification to use with other datasets.<P>
 Some of the general concepts from the book are discussed in papers by Kruschke & Liddell. See references below.
 </P>
+
+**2018-08-16 (ongoing):**  
+Updating the notebooks with PyMC3 v3.5 and general code clean-up. Inserting plots of the PyMC models in plate notation (v3.5 feature). Fixing some deprecation warnings.
+ 
+</P>
 <IMG src='https://9b8e0032-a-62cb3a1a-s-sites.googlegroups.com/site/doingbayesiandataanalysis/what-s-new-in-2nd-ed/CoverDBDA2E-FrontOnly-600wide.png' height=30% width=30%><P>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%209.ipynb'>Chapter 9 - Hierarchical Models</A><BR>
+<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%209.ipynb'>Chapter 9 - Hierarchical Models</A> (PyMC3 3.5)<BR>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2010.ipynb'>Chapter 10 - Model Comparison and Hierarchical Modelling</A><BR>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2012.ipynb'>Chapter 12 - Bayesian Approaches to Testing a Point ("Null") Hypothesis</A><BR>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2016.ipynb'>Chapter 16 - Metric-Predicted Variable on One or Two Groups</A><BR>
