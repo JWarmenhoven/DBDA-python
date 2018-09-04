@@ -16,7 +16,7 @@ Updating the notebooks with PyMC3 v3.5 and general code clean-up. Inserting plot
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2016.ipynb'>Chapter 16 - Metric-Predicted Variable on One or Two Groups</A> (PyMC3 3.5)<BR>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2017.ipynb'>Chapter 17 - Metric-Predicted Variable with One Metric Predictor</A> (PyMC3 3.5)<BR>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2018.ipynb'>Chapter 18 - Metric Predicted Variable with Multiple Metric Predictors</A><BR>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2019.ipynb'>Chapter 19 - Metric Predicted Variable with One Nominal Predictor</A><BR>
+<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2019.ipynb'>Chapter 19 - Metric Predicted Variable with One Nominal Predictor</A> (PyMC3 3.5)<BR>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2020.ipynb'>Chapter 20 - Metric Predicted Variable with Multiple Nominal Predictor</A><BR>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2021.ipynb'>Chapter 21 - Dichotomous Predicted Variable</A><BR>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2022.ipynb'>Chapter 22 - Nominal Predicted Variable</A><BR>
