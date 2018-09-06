@@ -21,7 +21,7 @@ Updating the notebooks with PyMC3 v3.5 and general code clean-up. Inserting plot
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2021.ipynb'>Chapter 21 - Dichotomous Predicted Variable</A> (PyMC3 3.5)<BR>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2022.ipynb'>Chapter 22 - Nominal Predicted Variable</A> (PyMC3 3.5)<BR>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2023.ipynb'>Chapter 23 - Ordinal Predicted Variable</A> (PyMC3 3.5)<BR>
-<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2024.ipynb'>Chapter 24 - Count Predicted Variable</A>
+<A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2024.ipynb'>Chapter 24 - Count Predicted Variable</A> (PyMC3 3.5)
 <P>
 Extra:<BR>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/Various-Machine-Learning-bits/blob/master/Bayesian%20Linear%20Regression.ipynb'>Bayesian Linear Regression example (Bishop, 2006)</A><BR>
