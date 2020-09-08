@@ -9,7 +9,7 @@ Some of the general concepts from the book are discussed in papers by Kruschke &
 Updating the notebooks with PyMC3 v3.5 and general code clean-up. Inserting plots of the PyMC models in plate notation (v3.5 feature). Fixing some deprecation warnings.
  
 </P>
-<!-- IMG src='https://lh4.googleusercontent.com/Iw7cawudHAzizhkHVpnuidfWknCACeDyB9c1hwf9ChUIin3Ytq9l2UuaLxi9a9UIwcl3Y7QEIejQHU_vZ1TPgF1VcWr_vr19SM11OJOU3kKBSaplr0wA=w1280' height=30% width=30%--><P>
+<IMG src='Notebooks/images/DBDA2.png' height=30% width=30%><P>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%209.ipynb'>Chapter 9 - Hierarchical Models</A> (PyMC3 3.5)<BR>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2010.ipynb'>Chapter 10 - Model Comparison and Hierarchical Modelling</A> (PyMC3 3.5)<BR>
 <A href='http://nbviewer.jupyter.org/github/JWarmenhoven/DBDA-python/blob/master/Notebooks/Chapter%2012.ipynb'>Chapter 12 - Bayesian Approaches to Testing a Point ("Null") Hypothesis</A> (PyMC3 3.5)<BR>
